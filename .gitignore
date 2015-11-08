@@ -234,3 +234,6 @@ examples/uiControlsWinRT/uiControlsWinRT.Windows/obj/*
 examples/uiControlsWinRT/uiControlsWinRT.WindowsPhone/bin/*
 examples/uiControlsWinRT/uiControlsWinRT.WindowsPhone/obj/*
 
+# IntelliJ IDEA config files
+/EclipseProjects/*/.idea
+/EclipseProjects/*/*.iml
